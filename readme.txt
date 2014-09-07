@@ -8,3 +8,4 @@ git 5
 git tracks changes
 git 6
 create a new branch qa is quick and simple
+no off
